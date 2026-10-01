@@ -5,3 +5,8 @@ num2 = 20
 total = num1 + num2
 print(total)
 your output would be 30
+example 2
+Num3 = 2
+num4 = 9
+Sum = num3 + num4
+print(sum)
